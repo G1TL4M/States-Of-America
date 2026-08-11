@@ -29,9 +29,9 @@
 		"denounced": "The accusations of primitive lifeforms are beneath us.",
 		"declaringfriendship": "Let us become like friends!",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"uniqueName": "LONE_STAR",
+		"outerColor": [28,51,119],
+		"innerColor": [200,200,200],
+		"uniqueName": "Lone Star",
 		"cities": ["Houston","Austin","Dallas","El Paso","San Antonio","Brazos","Fredericksburg","Galveston","Velasco","Harrisburg","Colombia"],
 	},
 	{
@@ -84,7 +84,7 @@
 
 		"outerColor": [216,120,0],
 		"innerColor": [28,51,119],
-		"uniqueName": "EMPIRE_STATE",
+		"uniqueName": "Empire State",
 		"cities": ["New York","Albany","Utica","Buffalo"],
 	},
 	{
@@ -111,7 +111,7 @@
 
 		"outerColor": [2,20,79],
 		"innerColor": [201,40,75],
-		"uniqueName": "BIRTHPLACE_OF_AVIATION",
+		"uniqueName": "Birthplace Of Aviation",
 		"uniques": ["Discover [Flight] <upon entering the [Modern era]>"],
 		"cities": ["Cincinnati","Columbus","Cleveland","Marietta"],
 	}
