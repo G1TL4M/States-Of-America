@@ -1,9 +1,9 @@
 [
 	{
-		"name": "Aliens",
+		"name": "Texas",
 		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"adjective": ["texan"],
+		"startBias": ["Plains"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come in peace!",
@@ -14,7 +14,7 @@
 		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
 		"introduction": "As superior galactic entities, you are not worthy of our attention.",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "Howdy!",
 		//"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		//"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		//"neutralYes": ["Very good.","Of course, yes.","That is very good."],
@@ -31,10 +31,46 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
+		"uniqueName": "LONE_STAR",
+		"cities": ["Houston","Austin","Dallas","El Paso","San Antonio","Brazos","Fredericksburg","Galveston","Velasco","Harrisburg","Colombia"],
+	},
+	{
+		"name": "California",
+		"leaderName": "Zyxxyz",
+		"adjective": ["Californian"],
+		"startBias": ["Coast"],
+	},
+	{
+		"name": "New York",
+		"leaderName": "Zyxxyz",
+		"adjective": ["New Yorker"],
+		"startBias": ["Coast"],
+	},
+	{
+		"name": "Ohio",
+		"leaderName": "Zyxxyz",
+		"adjective": ["Ohioan"],
+		"startBias": ["Grassland"],
+
+		"startIntroPart1": "uh",
+		"startIntroPart2": "uh",
+
+		"declaringWar": "uh",
+		"attacked": "uh",
+		"defeated": "uh",
+		"introduction": "uh",
+
+		"neutralHello": "heya",
+		
+		"hateHello": "...",
+
+		"tradeRequest": "uh",
+		"denounced": "uh",
+		"declaringfriendship": "uh",
+
+		"outerColor": [2,20,79],
+		"innerColor": [201,40,75],
+		"uniqueName": "BIRTHPLACE_OF_AVIATION",
+		"uniques":
+		"cities": ["Colombus"],
 ]
