@@ -9,7 +9,7 @@
 		"startIntroPart1": "We come in peace!",
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
+		"declaringWar": "You've yee'd yer last haw.",
 		"attacked": "You want to play? Very funny!",
 		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
 		"introduction": "As superior galactic entities, you are not worthy of our attention.",
@@ -39,12 +39,53 @@
 		"leaderName": "Zyxxyz",
 		"adjective": ["Californian"],
 		"startBias": ["Coast"],
+
+		"startIntroPart1": "uh",
+		"startIntroPart2": "uh",
+
+		"declaringWar": "uh",
+		"attacked": "uh",
+		"defeated": "uh",
+		"introduction": "uh",
+
+		"neutralHello": "heya",
+
+		"hateHello": "...",
+
+		"tradeRequest": "uh",
+		"denounced": "uh",
+		"declaringfriendship", "uh",
+
+		"outerColor": [255,255,255],
+		"innerColor": [185,10,49],
+		"cities": ["Sacramento","Los Angeles","San Francisco","Eureka"],
 	},
 	{
 		"name": "New York",
 		"leaderName": "Zyxxyz",
 		"adjective": ["New Yorker"],
 		"startBias": ["Coast"],
+
+		"startIntroPart1": "uh",
+		"startIntroPart2": "uh",
+
+		"declaringWar": "uh",
+		"attacked": "uh",
+		"defeated": "uh",
+		"introduction": "uh",
+
+		"neutralHello": "Hey I'm walking here!",
+
+		"hateHello": "Hey I'm walking here!",
+
+		"tradeRequest": "uh",
+		"denounced": "uh",
+		"declaringfriendship": "uh",
+
+		"outerColor": [216,120,0],
+		"innerColor": [28,51,119],
+		"uniqueName": "EMPIRE_STATE",
+		"cities": ["New York","Albany","Utica","Buffalo"],
 	},
 	{
 		"name": "Ohio",
@@ -71,6 +112,7 @@
 		"outerColor": [2,20,79],
 		"innerColor": [201,40,75],
 		"uniqueName": "BIRTHPLACE_OF_AVIATION",
-		"uniques":
-		"cities": ["Colombus"],
+		"uniques": ["Discover [Flight] <upon entering the [Modern era]>"],
+		"cities": ["Cincinnati","Columbus","Cleveland","Marietta"],
+	}
 ]
