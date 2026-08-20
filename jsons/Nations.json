@@ -50,7 +50,7 @@
 		"outerColor": [255,255,255],
 		"innerColor": [185,10,49],
 		"uniqueName": "Gold Rush",
-		"uniques": ["[+1 Gold] from [Gold Ore] tiles [in all cities]","[+2 Gold] from [Gold Ore] tiles [in all cities] <during a Golden Age>"],
+		"uniques": ["[+1 Gold] from [Gold Ore] tiles [in all cities]","[+2 Gold] from [Gold Ore] tiles [in all cities] <during a Golden Age>","[+2 Gold] <in cities connected to the capital>"],
 		"cities": ["Sacramento","Los Angeles","San Francisco","Eureka"],
 	},
 	{
@@ -159,7 +159,7 @@
 		"outerColor": [2,20,79],
 		"innerColor": [201,40,75],
 		"uniqueName": "Birthplace Of Aviation",
-		"uniques": ["Discover [Flight] <upon entering the [Modern era]>"],
+		"uniques": ["Discover [Flight] <upon entering the [Modern era]>","[+2 Production] from [Manufactory] tiles [in all cities]"],
 		"cities": ["Cincinnati","Colombus","Cleveland","Marietta","Akron","Dayton","Toledo","Springfield","Hamilton","Canton","Sandusky","Lancaster","Westerville","Mansfield","Youngstown","Bowling Green","Coshocton","Zanesville","Cambridge","Lorain","Pickerington","Circleville","Ashtabula","Londonderry"],
 	},
 	{
