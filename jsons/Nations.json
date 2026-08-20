@@ -52,6 +52,34 @@
 		"cities": ["Tallahassee","Miami","Orlando","Tampa","St Augustine"],
 	},
 	{
+		"name": "Louisiana",
+		"leaderName": "Zyxxyz",
+		"adjective": ["Louisianan"],
+		"startBias": ["Coast"],
+
+		"startIntroPart1": "uh",
+		"startIntroPart2": "uh",
+
+		"declaringWar": "uh",
+		"attacked": "uh",
+		"defeated": "uh",
+		"introduction": "uh",
+
+		"neutralHello": "heya",
+
+		"hateHello": "...",
+
+		"tradeRequest": "uh",
+		"denounced": "uh",
+		"declaringfriendship": "uh",
+
+		"outerColor": [255,255,255],
+		"innerColor": [28,51,119],
+		"uniqueName": "Louisiana Purchase",
+		"uniques": ["[-50]% Gold cost of acquiring tiles [in all cities]","[-50]% Culture cost of acquiring tiles [in all cities]"],
+		"cities": ["New Orleans", "Baton Rouge"],
+	},
+	{
 		"name": "New York",
 		"leaderName": "Zyxxyz",
 		"adjective": ["New Yorker"],
@@ -136,9 +164,34 @@
 		"denounced": "The accusations of primitive lifeforms are beneath us.",
 		"declaringfriendship": "Let us become like friends!",
 
-		"outerColor": [28,51,119],
+		"outerColor": [119,28,51],
 		"innerColor": [200,200,200],
 		"uniqueName": "Lone Star",
 		"cities": ["Houston","Austin","Dallas","El Paso","San Antonio","Brazos","Fredericksburg","Galveston","Velasco","Harrisburg","Colombia"],
+	},
+
+	{
+		"name": "Las Vegas",
+		"adjective": ["Nevadan"],
+		"cityStateType": "Mercantile",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [40, 190, 245],
+		"cities": ["Las Vegas"]
+	},
+	{
+		"name": "Salt Lake City",
+		"adjective": ["Utahan"],
+		"cityStateType": "Religious",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [188, 155, 77],
+		"cities": ["Salt Lake City"]
 	}
 ]
