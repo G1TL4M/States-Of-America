@@ -1,5 +1,31 @@
 [
 	{
+		"name": "Alaska",
+		"leaderName": "Zyxxyz",
+		"adjective": ["Alaskan"],
+		"startBias": ["Tundra"],
+
+		"startIntroPart1": "uh",
+		"startIntroPart2": "uh",
+
+		"declaringWar": "uh",
+		"attacked": "uh",
+		"defeated": "uh",
+		"introduction": "uh",
+
+		"neutralHello": "heya",
+
+		"hateHello": "...",
+
+		"tradeRequest": "uh",
+		"denounced": "uh",
+		"declaringfriendship": "uh",
+
+		"outerColor": [0,65,100],
+		"innerColor": [210,200,80],
+		"cities": ["Juneau","Anchorage","Nome"],
+	},
+	{
 		"name": "California",
 		"leaderName": "Zyxxyz",
 		"adjective": ["Californian"],
