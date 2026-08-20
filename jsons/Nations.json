@@ -1,40 +1,5 @@
 [
 	{
-		"name": "Texas",
-		"leaderName": "Zyxxyz",
-		"adjective": ["texan"],
-		"startBias": ["Plains"],
-		"preferredVictoryType": "Scientific",
-		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
-		
-		"declaringWar": "You've yee'd yer last haw.",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
-		
-		"neutralHello": "Howdy!",
-		//"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		//"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		//"neutralYes": ["Very good.","Of course, yes.","That is very good."],
-
-		"hateHello": "What do you want now?",
-		//"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		//"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		//"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		//"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-		"denounced": "The accusations of primitive lifeforms are beneath us.",
-		"declaringfriendship": "Let us become like friends!",
-
-		"outerColor": [28,51,119],
-		"innerColor": [200,200,200],
-		"uniqueName": "Lone Star",
-		"cities": ["Houston","Austin","Dallas","El Paso","San Antonio","Brazos","Fredericksburg","Galveston","Velasco","Harrisburg","Colombia"],
-	},
-	{
 		"name": "California",
 		"leaderName": "Zyxxyz",
 		"adjective": ["Californian"],
@@ -59,6 +24,32 @@
 		"outerColor": [255,255,255],
 		"innerColor": [185,10,49],
 		"cities": ["Sacramento","Los Angeles","San Francisco","Eureka"],
+	},
+	{
+		"name": "Florida",
+		"leaderName": "Zyxxyz",
+		"adjective": ["Floridian"],
+		"startBias": ["Coast"],
+
+		"startIntroPart1": "uh",
+		"startIntroPart2": "uh",
+
+		"declaringWar": "uh",
+		"attacked": "uh",
+		"defeated": "uh",
+		"introduction": "uh",
+
+		"neutralHello": "heya",
+
+		"hateHello": "...",
+
+		"tradeRequest": "uh",
+		"denounced": "uh",
+		"declaringfriendship": "uh",
+
+		"outerColor": [25,128,240],
+		"innerColor": [100,200,150],
+		"cities": ["Tallahassee","Miami","Orlando","Tampa","St Augustine"],
 	},
 	{
 		"name": "New York",
@@ -113,6 +104,41 @@
 		"innerColor": [201,40,75],
 		"uniqueName": "Birthplace Of Aviation",
 		"uniques": ["Discover [Flight] <upon entering the [Modern era]>"],
-		"cities": ["Cincinnati","Columbus","Cleveland","Marietta"],
+		"cities": ["Cincinnati","Colombus","Cleveland","Marietta","Akron","Dayton","Toledo","Springfield","Hamilton","Canton","Sandusky","Lancaster","Westerville","Mansfield","Youngstown","Bowling Green","Coshocton","Zanesville","Cambridge","Lorain","Pickerington","Circleville","Ashtabula","Londonderry"],
+	},
+	{
+		"name": "Texas",
+		"leaderName": "Zyxxyz",
+		"adjective": ["texan"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "We come in peace!",
+		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		
+		"declaringWar": "You've yee'd yer last haw.",
+		"attacked": "You want to play? Very funny!",
+		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
+		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		
+		"neutralHello": "Howdy!",
+		//"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		//"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		//"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		//"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		//"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		//"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		//"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"denounced": "The accusations of primitive lifeforms are beneath us.",
+		"declaringfriendship": "Let us become like friends!",
+
+		"outerColor": [28,51,119],
+		"innerColor": [200,200,200],
+		"uniqueName": "Lone Star",
+		"cities": ["Houston","Austin","Dallas","El Paso","San Antonio","Brazos","Fredericksburg","Galveston","Velasco","Harrisburg","Colombia"],
 	}
 ]
