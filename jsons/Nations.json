@@ -195,6 +195,7 @@
 		"outerColor": [119,28,51],
 		"innerColor": [200,200,200],
 		"uniqueName": "Lone Star",
+		"uniques": ["[+2 Culture] from every [Fort]","[+25]% Strength for [Mounted] units"],
 		"cities": ["Houston","Austin","Dallas","El Paso","San Antonio","Brazos","Fredericksburg","Galveston","Velasco","Harrisburg","Colombia"],
 	},
 
