@@ -23,7 +23,7 @@
 
 		"outerColor": [0,65,100],
 		"innerColor": [210,200,80],
-		"cities": ["Juneau","Anchorage","Nome"],
+		"cities": ["Juneau","Anchorage","Wrangell","Sitka","Nome","Valdez","Nightmute","Unalaska"],
 	},
 	{
 		"name": "California",
@@ -51,7 +51,7 @@
 		"innerColor": [185,10,49],
 		"uniqueName": "Gold Rush",
 		"uniques": ["[+1 Gold] from [Gold Ore] tiles [in all cities]","[+2 Gold] from [Gold Ore] tiles [in all cities] <during a Golden Age>","[+2 Gold] <in cities connected to the capital>"],
-		"cities": ["Sacramento","Los Angeles","San Francisco","Eureka"],
+		"cities": ["Sacramento","Los Angeles","San Francisco","Eureka","San Diego","Bakersfield","San Jose","Fresno","Palmdale","Lancaster","Palm Springs","Riverside","California City"],
 	},
 	{
 		"name": "Florida",
@@ -77,7 +77,7 @@
 
 		"outerColor": [25,128,240],
 		"innerColor": [100,200,150],
-		"cities": ["Tallahassee","Miami","Orlando","Tampa","St Augustine"],
+		"cities": ["Tallahassee","Miami","Orlando","Tampa","St Augustine","Jacksonville","Port St. Lucie","Bunell","Cape Coral","North Port","Palm Coast","Palm Bay"],
 	},
 	{
 		"name": "Louisiana",
@@ -196,7 +196,7 @@
 		"innerColor": [200,200,200],
 		"uniqueName": "Lone Star",
 		"uniques": ["[+2 Culture] from every [Fort]","[+25]% Strength for [Mounted] units"],
-		"cities": ["Houston","Austin","Dallas","El Paso","San Antonio","Brazos","Fredericksburg","Galveston","Velasco","Harrisburg","Colombia"],
+		"cities": ["Houston","Austin","Dallas","El Paso","San Antonio","Fort Worth","Brazos","Lubbock","Brownsville","Laredo","Denton","Arlington","Waco","Corpus Christi","Beaumont","Abilene","Fredericksburg","Galveston","Armarillo","Velasco","Harrisburg","Colombia"],
 	},
 
 	{
