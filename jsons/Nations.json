@@ -200,6 +200,18 @@
 	},
 
 	{
+		"name": "San Juan",
+		"adjective": ["Sanjuano","Sanjuana"],
+		"cityStateType": "Maritime",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [230, 23, 46],
+		"cities": ["San Juan"]
+	},
+	{
 		"name": "Las Vegas",
 		"adjective": ["Nevadan"],
 		"cityStateType": "Mercantile",
@@ -210,6 +222,18 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [40, 190, 245],
 		"cities": ["Las Vegas"]
+	},
+	{
+		"name": "Hagåtña",
+		"adjective": ["Guamanian"],
+		"cityStateType": "Militaristic",
+
+		"declaringWar": "We have wanted this for a LONG time. War it shall be.",
+		"attacked": "Very well, we will kick you back to the ancient era!",
+		"defeated": "This isn't how it is supposed to be!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [10, 125, 250],
+		"cities": ["Hagåtña"]
 	},
 	{
 		"name": "Salt Lake City",
