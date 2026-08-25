@@ -223,8 +223,8 @@
 		"outerColor": [0,132,87],
 		"innerColor": [255,213,32],
 		"uniqueName": "The Evergreen State",
-		"uniques": ["[+1 Gold, +2 Production] from [Lumber Mill] tiles [in all cities]","],
-		"cities": ["Seattle","Olympia","Tacoma","Everett","Renton","Kent","Bremerton","Bellevue"],
+		"uniques": ["[+1 Gold, +2 Production] from [Lumber Mill] tiles [in all cities]"],
+		"cities": ["Seattle","Olympia","Tacoma","Everett","Renton","Kent","Bremerton","Bellevue"]
 	},
 
 	{
