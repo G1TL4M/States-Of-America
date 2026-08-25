@@ -198,6 +198,34 @@
 		"uniques": ["[+2 Culture] from every [Fort]","[+25]% Strength for [Mounted] units"],
 		"cities": ["Houston","Austin","Dallas","El Paso","San Antonio","Fort Worth","Brazos","Lubbock","Brownsville","Laredo","Denton","Arlington","Waco","Corpus Christi","Beaumont","Abilene","Fredericksburg","Galveston","Armarillo","Velasco","Harrisburg","Colombia"],
 	},
+	{
+		"name": "Washington",
+		"leaderName": "Zyxxyz",
+		"adjective": ["Washingtonian"],
+		"startBias": ["Forest"],
+
+		"startIntroPart1": "uh",
+		"startIntroPart2": "uh",
+
+		"declaringWar": "uh",
+		"attacked": "uh",
+		"defeated": "uh",
+		"introduction": "uh",
+
+		"neutralHello": "heya",
+
+		"hateHello": "...",
+
+		"tradeRequest": "uh",
+		"denounced": "uh",
+		"declaringfriendship": "uh",
+
+		"outerColor": [0,132,87],
+		"innerColor": [255,213,32],
+		"uniqueName": "The Evergreen State",
+		"uniques": ["[+1 Gold, +2 Production] from [Lumber Mill] tiles [in all cities]","],
+		"cities": ["Seattle","Olympia","Tacoma","Everett","Renton","Kent","Bremerton","Bellevue"],
+	},
 
 	{
 		"name": "San Juan",
