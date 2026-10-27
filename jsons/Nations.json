@@ -253,7 +253,9 @@
 			"[+5]% [Science] [in all cities] <after adopting [Rationalism]>",
 			"[+10]% Great Person generation [in all cities] <after adopting [Freedom]>",
 			"[-17]% maintenance costs <for [All] units> <after adopting [Autocracy]>",
-			"[+10]% [Production] [in all cities] <after adopting [Order]>"]
+			"[+10]% [Production] [in all cities] <after adopting [Order]>",
+			"[+1] Sight <for [Military] units> <after adopting [Exploration]> <if [Civ V Brave New World] is enabled>",
+			"[+2 Culture] per [5] population [in all cities] <after adopting [Aesthetics]> <if [Civ V Brave New World] is enabled>"]
 		"cities": ["Richmond",
 			"Virginia Beach","Charleston","Jamestown","Chesapeake","Norfolk",
 			"Williamsburg","Newport News","Portsmouth","Kanawha","Huntington",
